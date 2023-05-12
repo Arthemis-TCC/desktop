@@ -1,0 +1,2 @@
+# desktop
+Software de licenciamento
