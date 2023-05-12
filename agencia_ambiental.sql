@@ -69,10 +69,12 @@ insert into funcionario values ('eduarda', 2147483647, 'eduarda@gmail.com', 125,
 
 
 create table svn_engenheiro(
+codigo_svn_e int  not null auto_increment primary key,
+check_svn bool not null,
 cidade varchar(200) not null, 
 status_svn varchar(50) not null, 
-data_svn date not null, 
-check_svn bool not null);
+data_svn date not null);
 
 
-insert into svn_engenheiro values ('Vistoria - Registro, São Paulo', 'Em atraso', 20170610);
+insert into svn_engenheiro (check_svn, cidade, status_svn, data_svn) values (true, 'Vistoria - Registro, São Paulo', 'Em atraso', 20170610);
+
