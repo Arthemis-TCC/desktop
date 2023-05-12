@@ -1,0 +1,12 @@
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\bin\Debug\tcc1.exe.config
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\bin\Debug\tcc1.exe
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\bin\Debug\tcc1.pdb
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\bin\Debug\MySql.Data.dll
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.csprojResolveAssemblyReference.cache
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.Form1.resources
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.Properties.Resources.resources
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.csproj.GenerateResource.Cache
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.exe
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.pdb
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.frm_check.resources
+C:\Users\ds-etim-3.ACAD\Desktop\tcc\tcc1\tcc1\obj\Debug\tcc1.frm_svn.resources
